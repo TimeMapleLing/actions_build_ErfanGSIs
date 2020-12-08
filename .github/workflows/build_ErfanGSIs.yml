@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip583056860.out.azhimalayanvh.com/Firmware/Flyme/meizu17_Pro/8.1.2.4/cn/20200908205339/d4cc2a1c/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=f1332df242f5fbd2361b442d0a65ced192d3a5c90f65427a&ali_redirect_ex_tmining_ts=1607306580&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
-  ROM_NAME: Flyme
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20201107152428/PDEM10_11_OTA_0490_all_usRuhHAaxn5f.ozip
+  ROM_NAME: 
   TZ: Asia/Shanghai
 
 jobs:
