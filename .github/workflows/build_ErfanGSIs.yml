@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20201107152428/PDEM10_11_OTA_0490_all_usRuhHAaxn5f.ozip
-  ROM_NAME: 
+  ROM_URL: https://ip583056860.out.azhimalayanvh.com/Firmware/Flyme/meizu17_Pro/8.1.2.4/cn/20200908205339/d4cc2a1c/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=d5cb74d10b39802b538861fd79f9a07160584fccb6ec5996&ali_redirect_ex_tmining_ts=1607666655&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
@@ -51,7 +51,7 @@ jobs:
               sudo bash setup.sh
        
        - name: Download Stock Rom & Generate GSI
-         run: sudo ./ErfanGSIs/url2GSI.sh $ROM_URL $ROM_NAME -ab
+         run: sudo ./ErfanGSIs/url2GSI.sh $ROM_URL $ROM_NAME --ab
        
        - name: Zip GSI  
          run: |
