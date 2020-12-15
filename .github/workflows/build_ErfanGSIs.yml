@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip583056860.out.azhimalayanvh.com/Firmware/Flyme/meizu17_Pro/8.1.2.4/cn/20200908205339/d4cc2a1c/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=d5cb74d10b39802b538861fd79f9a07160584fccb6ec5996&ali_redirect_ex_tmining_ts=1607666655&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/meizu17_Pro/8.2.0.0/cn/20201210134324/27f4c312/update.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
