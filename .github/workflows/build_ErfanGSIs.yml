@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip4090659767.mobgslb.tbcache.com/Firmware/Flyme/16xs/8.1.5.0/cn/20200911100700/08868cc1/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=9ed86d338596837d9d107cdc4561ffd40805c6cbb46652f3&ali_redirect_ex_tmining_ts=1608125040&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_URL: https://ip2279899965.out.azhimalayanvh.com/Firmware/Flyme/16xs/8.20.6.30/cn_beta/20200715101736/f31452ed/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=ae8412c021cca1141bf81dd329e0d32f5561eaababe3c402&ali_redirect_ex_tmining_ts=1608127267&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
